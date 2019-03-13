@@ -83,13 +83,35 @@ void setup() {
 	  lcd.print("Armed by TRAX");
 	  delay(500);
 	  lcd.setCursor(0,1);
-	  lcd.print("drtrax313@live.c");
+	  lcd.print("github.com/TraxD");
 	  delay(1500);
+	  
 	  lcd.setCursor(0,1);
-	  lcd.print("rtrax313@live.co");
+	  lcd.print("hub.com/TraxData");
 	  delay(500);
+	  
 	  lcd.setCursor(0,1);
-	  lcd.print("trax313@live.com");
+	  lcd.print(".com/TraxData313");
+	  delay(500);
+	  
+	  lcd.setCursor(0,1);
+	  lcd.print("m/T");
+	  delay(500);
+	  
+	  lcd.setCursor(0,1);
+	  lcd.print("raxData313/Airso");
+	  delay(500);
+	  
+	  lcd.setCursor(0,1);
+	  lcd.print("raxData313/Airso");
+	  delay(500);
+	  
+	  lcd.setCursor(0,1);
+	  lcd.print("Data313/AirsoftB");
+	  delay(500);
+	  
+	  lcd.setCursor(0,1);
+	  lcd.print("a313/AirsoftBomb");
 	  delay(2000);
 
     lcd.clear();
