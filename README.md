@@ -67,4 +67,4 @@ Connecting the bomb wires:
 - When 1/6 of the time expired it will start beeping fastest
 
 
-For more assistance contact antongeorgiev313@gmail.com
+For assistance contact antongeorgiev313@gmail.com
