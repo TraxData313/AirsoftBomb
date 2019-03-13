@@ -1,5 +1,6 @@
 /*
 For assistance contact antongeorgiev313@gmail.com
+README @ github.com/TraxData313/AirsoftBomb
 */
 
 #include <Wire.h> 
@@ -95,12 +96,9 @@ void setup() {
 	  delay(500);
 	  
 	  lcd.setCursor(0,1);
-	  lcd.print("m/T");
+	  lcd.print("m/TraxData313/Ai");
 	  delay(500);
 	  
-	  lcd.setCursor(0,1);
-	  lcd.print("raxData313/Airso");
-	  delay(500);
 	  
 	  lcd.setCursor(0,1);
 	  lcd.print("raxData313/Airso");
