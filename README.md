@@ -14,7 +14,7 @@ README:
 - Arduino Uno
 - LCD display 16x2 I2C
 - Beeper + LED
-- Two 4-legged buttons: B1 and B2 and two resistors
+- Two 4-legged buttons: B1 and B2 and two resistors (from 100 to 300 Ohms)
 - Bomb wires
 
 
