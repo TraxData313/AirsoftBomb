@@ -6,6 +6,7 @@ README:
 - Connect the parts (check II.)
 - Upload the code to the arduino (get the code is in file bomb10.txt)
 - Use the bomb (check III.)
+- Videos: https://www.youtube.com/watch?v=Q3l8eJ0i48g&list=PLNsnBmVpuum5lYN3JTYVwlbDKrOPHElvH
 
 
 
