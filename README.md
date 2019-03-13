@@ -1,4 +1,4 @@
-# AirsoftBomb for Arduino Uno
+# AirsoftBomb
 
 
 README:
