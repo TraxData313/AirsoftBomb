@@ -32,7 +32,7 @@ README:
 
 # II. Connections:
 
-Conncting the display:
+Connecting the display:
 - LCD GND -> Arduino GND
 - LCD VCC -> Arduino 5V
 - LCD SDA -> Arduino A4
