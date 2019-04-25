@@ -1,3 +1,9 @@
+<br><br>
+<b>For assistance contact antongeorgiev313@gmail.com</b>
+- I'm gratefull for any feedback!
+- Have fun with this project and don't forget to send me a video when you complete it!
+<br><br>
+
 <p><em>Disclaimer:</em></p>
 <blockquote>
 <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
@@ -80,9 +86,3 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 - The bomb will beep once per second
 - When 1/3 of the time expires it will start beeping faster
 - When 1/6 of the time expired it will start beeping fastest
-<br>
-<br>
-
-<b>For assistance contact antongeorgiev313@gmail.com</b>
-- I'm gratefull for any feedback!
-- Have fun with it and don't forget to send me a video or a few pics if you redo the project!
