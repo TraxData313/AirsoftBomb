@@ -12,7 +12,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 # AirsoftBomb
 
 
-<b>README:<b>
+<b>README:</b>
 - Get the parts <b>(check I.)</b>
 - Connect the parts <b>(check II.)</b>
 - Upload the code to the arduino (get the code is in file bomb10.txt)
