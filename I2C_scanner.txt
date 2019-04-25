@@ -1,8 +1,16 @@
 // --------------------------------------
 // i2c_scanner:
-// This sketch tests the standard 7-bit addresses and shows it on the serial monitor
-// Devices with higher bit address might not be seen properly.
-// 
+// This sketch tests the standard 7-bit addresses and shows it on the serial monitor like this:
+/*
+I2C Scanner
+Scanning...
+I2C device found at address 0x3F  ! 
+done
+*/
+// In the example above "0x3F" would be the address you need.
+// Once you have that address, edit this line in bomb10.txt:
+// LiquidCrystal_I2C lcd(PUT_THE_ADDRESS_HERE,20,4)
+
  
 #include <Wire.h>
  
@@ -82,5 +90,5 @@ void loop()
 //    A sensor seems to use address 120.
 // Version 6, November 27, 2015.
 //    Added waiting for the Leonardo serial communication.
-//
-//
+// Devices with higher bit address might not be seen properly.
+// 
