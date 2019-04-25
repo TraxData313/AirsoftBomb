@@ -12,12 +12,13 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 # AirsoftBomb
 
 
-README:
-- Get the parts (check I.)
-- Connect the parts (check II.)
+<b>README:<b>
+- Get the parts <b>(check I.)</b>
+- Connect the parts <b>(check II.)</b>
 - Upload the code to the arduino (get the code is in file bomb10.txt)
-- Use the bomb (check III.)
-- Videos: https://www.youtube.com/watch?v=Q3l8eJ0i48g&list=PLNsnBmVpuum5lYN3JTYVwlbDKrOPHElvH
+- If you get an error that the address of your LCD monitor is wrong, check out the I2C_scanner.txt file
+- Use the bomb <b>(check III.)</b>
+- Videos: <b>https://www.youtube.com/watch?v=Q3l8eJ0i48g&list=PLNsnBmVpuum5lYN3JTYVwlbDKrOPHElvH</b>
 
 
 
@@ -32,20 +33,20 @@ README:
 
 # II. Connections:
 
-Connecting the display:
+<b>Connecting the display:</b>
 - LCD GND -> Arduino GND
 - LCD VCC -> Arduino 5V
 - LCD SDA -> Arduino A4
 - LCD SCL -> Arduino A5
 - LCD LED -> LCD Power
 
-Connecting the beeper + LED:
-- - Beeper(+) -> Arduino 10
+<b>Connecting the beeper + LED:</b>
+- Beeper(+) -> Arduino 10
 - LED(+) -> Arduino 10
 - Beeper(-) -> Arduino GND
 - LED(-) -> Arduino GND
 
-Connecting the buttons:
+<b>Connecting the buttons:</b>
 - B1 top left leg -> Arduino 5V
 - B2 top left leg -> Arduino 5V
 - B1 top right leg -> Resistor (few Ohms) -> Arduino GND
@@ -53,7 +54,7 @@ Connecting the buttons:
 - B1 bottom right leg -> Arduino 2
 - B2 bottom right leg -> Arduino 3
 
-Connecting the bomb wires:
+<b>Connecting the bomb wires:</b>
 - Arduino 12 -> Red wire -> GND
 - Arduino 11 -> Black wire -> GND
 - Arduino 7  -> Green wire -> GND
@@ -77,6 +78,9 @@ Connecting the bomb wires:
 - The bomb will beep once per second
 - When 1/3 of the time expires it will start beeping faster
 - When 1/6 of the time expired it will start beeping fastest
+<br>
+<br>
 
-
-For assistance contact antongeorgiev313@gmail.com
+<b>For assistance contact antongeorgiev313@gmail.com</b>
+- I'm gratefull for any feedback!
+- Have fun with it and don't forget to send me a video if you redo the project!
