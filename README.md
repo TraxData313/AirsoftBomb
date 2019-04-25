@@ -15,6 +15,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 <b>README:</b>
 - Get the parts <b>(check I.)</b>
 - Connect the parts <b>(check II.)</b>
+- If you are not using the Arduino Online Editor, manually install the two included libraries: "Wire.h" and "LiquidCrystal_I2C.h". Installing libraries steps: https://www.arduino.cc/en/guide/libraries
+- Else if you are using the Arduino Online Editor, I think those libraries come pre-installed. But let me know if you run into any trouble with this
 - Upload the code to the arduino (get the code is in file bomb10.txt)
 - If you get an error that the address of your LCD monitor is wrong, check out the I2C_scanner.txt file
 - Use the bomb <b>(check III.)</b>
