@@ -5,7 +5,11 @@ README @ github.com/TraxData313/AirsoftBomb
 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
-LiquidCrystal_I2C lcd(0x3F,20,4);  // set the I2C LCD address to 0x3F
+LiquidCrystal_I2C lcd(0x3F,20,4);  // the I2C LCD address of your display might differ, in this case,
+// replace this line: LiquidCrystal_I2C lcd(0x3F,20,4)
+// with this:         LiquidCrystal_I2C lcd(I2C_adrs_of_your_display,20,4)
+// to find it, first upload and run the I2C_scanner.txt code to your arduino - it will show you the I2C_adrs_of_your_display
+
 
 
 // DECLARATION:
