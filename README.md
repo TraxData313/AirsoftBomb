@@ -83,4 +83,4 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 
 <b>For assistance contact antongeorgiev313@gmail.com</b>
 - I'm gratefull for any feedback!
-- Have fun with it and don't forget to send me a video if you redo the project!
+- Have fun with it and don't forget to send me a video or a few pics if you redo the project!
