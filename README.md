@@ -30,7 +30,7 @@
 
 # II. Connections:
 
-<b>Connecting the display:</b>
+<b>Connecting the I2C LCD display:</b>
 - LCD GND -> Arduino GND
 - LCD VCC -> Arduino 5V
 - LCD SDA -> Arduino A4
