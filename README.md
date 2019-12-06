@@ -30,12 +30,12 @@
 
 ### II. Connections:
 
-<b>Connecting the I2C LCD display:</b>
-- LCD GND -> Arduino GND
-- LCD VCC -> Arduino 5V
-- LCD SDA -> Arduino A4
-- LCD SCL -> Arduino A5
-- LCD LED -> LCD Power
+1. Connecting the I2C LCD display:
+   1. LCD GND -> Arduino GND
+   1. LCD VCC -> Arduino 5V
+   1. LCD SDA -> Arduino A4
+   1. LCD SCL -> Arduino A5
+   1. LCD LED -> LCD Power
 
 <b>Connecting the beeper + LED:</b>
 - Beeper(+) -> Arduino 10
