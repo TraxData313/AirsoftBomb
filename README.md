@@ -37,25 +37,25 @@
    1. LCD SCL -> Arduino A5
    1. LCD LED -> LCD Power
 
-<b>Connecting the beeper + LED:</b>
-- Beeper(+) -> Arduino 10
-- LED(+) -> Arduino 10
-- Beeper(-) -> Arduino GND
-- LED(-) -> Arduino GND
+1. Connecting the beeper + LED:
+   1. Beeper(+) -> Arduino 10
+   1. LED(+) -> Arduino 10
+   1. Beeper(-) -> Arduino GND
+   1. LED(-) -> Arduino GND
 
-<b>Connecting the buttons:</b>
-- B1 top left leg -> Arduino 5V
-- B2 top left leg -> Arduino 5V
-- B1 top right leg -> Resistor (few Ohms) -> Arduino GND
-- B2 top right leg -> Resistor (few Ohms) -> Arduino GND
-- B1 bottom right leg -> Arduino 2
-- B2 bottom right leg -> Arduino 3
+1. Connecting the buttons:
+   1. B1 top left leg -> Arduino 5V
+   1. B2 top left leg -> Arduino 5V
+   1. B1 top right leg -> Resistor (few Ohms) -> Arduino GND
+   1. B2 top right leg -> Resistor (few Ohms) -> Arduino GND
+   1. B1 bottom right leg -> Arduino 2
+   1. B2 bottom right leg -> Arduino 3
 
-<b>Connecting the bomb wires:</b>
-- Arduino 12 -> Red wire -> GND
-- Arduino 11 -> Black wire -> GND
-- Arduino 7  -> Green wire -> GND
-- Arduino 8  -> Yellow wire -> GND
+1. Connecting the bomb wires:
+   1. Arduino 12 -> Red wire -> GND
+   1. Arduino 11 -> Black wire -> GND
+   1. Arduino 7  -> Green wire -> GND
+   1. Arduino 8  -> Yellow wire -> GND
 
 
 
