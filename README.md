@@ -7,7 +7,7 @@
 # AirsoftBomb
 
 
-<b>How to build and install it:</b>
+## How to build and install it:
 - Get the parts <b>(check I.)</b>
 - Connect the parts <b>(check II.)</b>
 - If you are not using the Arduino Online Editor, manually install the two included libraries: "Wire.h" and "LiquidCrystal_I2C.h". Installing libraries steps: https://www.arduino.cc/en/guide/libraries
@@ -19,7 +19,7 @@
 
 
 
-# I. Parts used:
+### I. Parts used:
 - Arduino Uno
 - LCD display 16x2 I2C
 - Beeper + LED
@@ -28,7 +28,7 @@
 
 
 
-# II. Connections:
+### II. Connections:
 
 <b>Connecting the I2C LCD display:</b>
 - LCD GND -> Arduino GND
@@ -60,7 +60,7 @@
 
 
 
-# III. Usage:
+### III. Usage:
 - Make sure all bomb wires are connected as per the instruction above (Connecting the bomb wires)
 - Start the bomb by plugging in the power (Arduino input power from 3,5 to 12V!)
 - Increase the timer to desired time to detonation using B1, when ready confirm with B2
@@ -71,7 +71,7 @@
 
 
 
-# Timers:
+### Timers:
 - The bomb will beep once per second
 - When 1/3 of the time expires it will start beeping faster
 - When 1/6 of the time expired it will start beeping fastest
