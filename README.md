@@ -7,7 +7,7 @@
 # AirsoftBomb
 
 
-<b>README:</b>
+<b>How to build and install it:</b>
 - Get the parts <b>(check I.)</b>
 - Connect the parts <b>(check II.)</b>
 - If you are not using the Arduino Online Editor, manually install the two included libraries: "Wire.h" and "LiquidCrystal_I2C.h". Installing libraries steps: https://www.arduino.cc/en/guide/libraries
